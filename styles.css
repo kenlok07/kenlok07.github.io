@@ -1,0 +1,13 @@
+body {background-color: lightblue;}
+h1  {color: blue;
+	font-size: 2.5em;
+	margin-inline-start: 900px;
+	margin-inline-end: 1800px;}
+	
+h2  {color: blue; 
+	font-weight:bold}
+p	{color: green; 
+	font-weight: bold;
+	font-size: 1em;
+	margin-block-start:1.5em;
+	margin-block-end:1.5em;}
